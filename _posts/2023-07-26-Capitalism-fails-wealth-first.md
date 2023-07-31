@@ -2,7 +2,7 @@
 
 On the internet you get to read a lot about people proclaim that the problem with capitalism is a shortage of one or the other product or service. The shortage aspect may be true, but is that truly the "problem"?
 
-Let us imagine a society with perfect competition, with zero shortages and no wage exploitation. What an utopia that would be! Yet this utopia graces us every now and then and communists have even got an interesting name for it. They 'affectionately' (of course I'm sarcastic) call it "overproduction crisis".
+Let us imagine a society with perfect competition, with zero shortages and no wage exploitation. What an utopia that would be! Yet limited forms of this utopia grace us every now and then and communists have even got an interesting name for it. They affectionately (of course I'm sarcastic) call it "overproduction crisis".
 
 Why is it a crisis? It's good for the consumer. There is no producer surplus! All of the surplus goes to the consumer! Why could this be a bad thing? It's a bad thing for the producer, because there is no way to perfectly plan production such that there is zero oversupply of a given product. Due to the illiquidity of the real economy, factories in the real world have a fixed size and therefore an inflexible production capacity.
 
@@ -20,7 +20,7 @@ In an economy with growing productivity but without economic growth, the amount 
 
 # Overproduction as a driver of wars?
 
-A country that has no domestic growth left to experience, might consider growing its borders instead. The excess production capacity can be diverted into the production of weapons. There is no shortage of demand for weapons. If one country produces too many weapons, then every other country will have to invest into the same technologies at least enought to defend itself. The new defense technology then spurrs a need for attackers to develop even more sophisticated technology. This is a cat and mouse game that nevers ends. If one country has an extreme military edge and stockpile over another country, it might decide to use that stockpile to gain some territory (cough, Ukraine, cough).
+A country that has no domestic growth left to experience, might consider growing its borders instead. The excess production capacity can be diverted into the production of weapons. There is no shortage of demand for weapons. If one country produces too many weapons, then every other country will have to invest into the same technologies at least enough to defend itself. The new defense technology then spurrs a need for attackers to develop even more sophisticated technology. This is a cat and mouse game that nevers ends. If one country has an extreme military edge and stockpile over another country, it might decide to use that stockpile to gain some territory (cough, Ukraine, cough).
 
 # Communism fails poverty first
 
