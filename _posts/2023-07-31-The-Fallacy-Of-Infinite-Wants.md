@@ -27,3 +27,20 @@ It doesn't even deserve mentioning, really. Given a product with a cost c and a 
 ## Do we actually need to satisfy these needs?
 
 If everyone becomes a capitalist, there are no capitalists left because the return on investment disappears. If everyone benefits from the moral hazard of government bailouts, then the government could instead just pay out a UBI or some other direct payment scheme and avoid this roundabout way of distributing money unfairly. In reality, we should ignore these needs. Most often people don't even care about them that much. Do we want to eat infinite quantities of food? No, that would make us obese. Do we need to eat food that increases in quality infinitely? No, we can be happy with less than infinity. If we can't be happy with what we already have and we do have a lot in developed countries, then we will be doomed to misery on the hedonistic treadmill no matter what.
+
+# Further Information (14-12-2023)
+
+"Given competitive capitalism ... Given the constant recreation of scracity by human action ...
+Economics is ...
+" - Robert Skidelsky
+
+"The science which studies behavior as a relationship between unlimited wants and limited resources
+which have alternative uses" - Lionel Robbins
+
+An interesting video discussion on Youtube: [New Economic Thinking "Unlimited Wants, Limited Resources"](https://youtu.be/CifipPzK7ao)
+
+Would you still need economics if you had limited desires and unlimited resources? Obviously, you would...
+
+The naive idea is that everyone gets an eight billionth slice of the infinite resources, which is infinite so it doesnt matter if your slice is bigger than the other guys.
+
+Except, what if your slice is finite in an infinite world? What if your slice is zero? Economic equality would become the focus and that is unthinkable.
