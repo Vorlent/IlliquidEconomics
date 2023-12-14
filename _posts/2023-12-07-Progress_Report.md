@@ -1,3 +1,8 @@
+---
+layout: post
+title: Progress Report
+---
+
 This is just a way to keep myself a little bit accountable and to brag a little bit about how many ideas I have and how many end up being published. The expectation is that I will update this post and simply redate it. The information here is non-binding and prone to being out of date.
 
 Stages:
