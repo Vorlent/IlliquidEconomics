@@ -22,7 +22,7 @@ In other words, we don't have infinite wants and needs for absolutely everything
 
 ## The desire for services and products that we have to pay for is finite
 
-It doesn't even deserve mentioning, really. Given a product with a cost c and a benefit b, we will want to keep buying products until the cost and benefits equalize. What this means is that the demand for ay given product is bounded. The disagreement with neoclassicals is not founded in the demand for any given product but rather that neoclassicals believe that the diminishing returns on one product will always be offset by the introduction of another product. 
+It doesn't even deserve mentioning, really. Given a product with a cost c and a benefit b, we will want to keep buying products until the cost and benefits equalize. What this means is that the demand for any given product is bounded. The disagreement with neoclassicals is not founded in the demand for any given product but rather that neoclassicals believe that the diminishing returns on one product will always be offset by the introduction of another product. 
 
 ## Do we actually need to satisfy these needs?
 
@@ -30,7 +30,7 @@ If everyone becomes a capitalist, there are no capitalists left because the retu
 
 # Further Information (14-12-2023)
 
-"Given competitive capitalism ... Given the constant recreation of scracity by human action ...
+"Given competitive capitalism ... Given the constant recreation of scarcity by human action ...
 Economics is ...
 " - Robert Skidelsky
 
