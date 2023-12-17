@@ -33,7 +33,7 @@ Verification: Most likely complete. Need to check if the numbers, etc are accura
 | Creating artificial wants | 41 | - | Notes |
 | Hidden Redistribution | 68 | - | Notes |
 | Residual money balances in Equilibrium | 88 | - | Notes |
-| Infinitely abundance scarce resources | 567 | - | Notes |
+| Infinitely abundant scarce resources | 567 | - | Notes |
 | The computational difficulty of finding equilibria | 374 | - | Notes |
 | Liquidity service providers | 277 | - | Notes |
 | Monetary profit always means redistribution | 64 | - | Notes |

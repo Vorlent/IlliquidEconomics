@@ -2,7 +2,7 @@
 title:               Illiquid Economics
 tagline:             'Economics with and without money'
 description:         'A reserved <a href="https://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:                 https://vorlent.github.io/
+url:                 https://vorlent.github.io
 baseurl:             '/IlliquidEconomics'
 paginate:            5
 permalink:           pretty
@@ -20,4 +20,4 @@ plugins:
 
 # Custom vars
 version:             1.1.0
-google_analytics_id: UA-146052-15
+# google_analytics_id: #UA-XXXX-Y
