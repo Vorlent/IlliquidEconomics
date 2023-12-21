@@ -15,7 +15,6 @@ Verification: Most likely complete. Need to check if the numbers, etc are accura
 | Blog Title | est. Word Count | est. Publishing Date | Stage |
 | --- | --- | --- |
 | Perfect Cooperation | 190 |  N/A | Notes |
-| Growth Dependence And The Structure Of The Economy | 3100 | 21-12-2023 | Writing |
 | How large can growth rates really get? | 1771 | 31-12-2023 | Verification |
 | Decoupling Growth From Physical Resources | 969 | 10-01-2024 | Writing |
 | Money doesnt solve the double concidence of wants problem | 803 | 20-01-2024 | Writing |
