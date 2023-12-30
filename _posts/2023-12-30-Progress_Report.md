@@ -14,26 +14,29 @@ Verification: Most likely complete. Need to check if the numbers, etc are accura
 
 | Blog Title | est. Word Count | est. Publishing Date | Stage |
 | --- | --- | --- |
-| Perfect Cooperation | 190 |  N/A | Notes |
-| How large can growth rates really get? | 1771 | 31-12-2023 | Verification |
 | Decoupling Growth From Physical Resources | 969 | 10-01-2024 | Writing |
-| Money doesnt solve the double concidence of wants problem | 803 | 20-01-2024 | Writing |
 | The laws of thermodynamics | 80 | - | Notes |
-| Actor dependent money utility | 307 | - | Notes |
+| Money doesnt solve the double concidence of wants problem | 803 | 20-01-2024 | Writing |
 | The Neoclassical Solver | 644 | 31-01-2024 | Writing |
 | Retaliation against sabotage leads to the end of the division of labor | 1906 | 05-02-2024 | Writing |
-| Welfare as a compensatory payment for neglect | 403 | - | Notes |
+| Money isn't a store of value | 1306 | 15-02-2024 | Writing |
+| The Impossibility of Microfoundations For Macroeconomics | 847 | 22-02-2024 | Writing |
+| Unstated assumptions | 473 | 29-02-2024 | Writing |
+| The zero sum games that can be played | 324 | 07-03-2024 | Writing |
+| Delayed decision making visualized | 710 | 14-03-2024 | Writing |
 | Why Does Seignorage Even Exist? | 156 | - | Notes |
+| Hidden Redistribution | 68 | - | Notes |
+| Perfect Cooperation | 190 |  N/A | Notes |
+| The computational difficulty of finding equilibria | 374 | - | Notes |
+| Actor dependent money utility | 307 | - | Notes |
+| Welfare as a compensatory payment for neglect | 403 | - | Notes |
 | Are people really hoarding money? | 94 | - | Notes |
 | What do I mean when I say liquidity? | 203 | - | Notes |
 | Infinite Public Debt As The Logical Conclusion Of The Zero Lower Bound | 71 | - | Notes |
-| Money isn't a store of value | 1306 | 15-02-2024 | Writing |
 | Money demand simulation | 112 | - | Notes |
 | Creating artificial wants | 41 | - | Notes |
-| Hidden Redistribution | 68 | - | Notes |
 | Residual money balances in Equilibrium | 88 | - | Notes |
 | Infinitely abundant scarce resources | 567 | - | Notes |
-| The computational difficulty of finding equilibria | 374 | - | Notes |
 | Liquidity service providers | 277 | - | Notes |
 | Monetary profit always means redistribution | 64 | - | Notes |
 | Gold standard as the harbinger of peace? | 240 | - | Notes |
@@ -48,15 +51,11 @@ Verification: Most likely complete. Need to check if the numbers, etc are accura
 | The real reason why we have inflation | 236 | - | Notes |
 | The schizophrenia of neoclassical economists | 150 | - | Notes |
 | The vending machine of domestic economic doom | 238 | - | Notes |
-| The Impossibility of Microfoundations For Macroeconomics | 847 | 22-02-2024 | Writing |
 | Induced demand | 142 | - | Notes |
 | What capitalism is or isnt | 30 | - | Notes |
 | The Just World Fallacy | 58 | - | Notes |
-| Unstated assumptions | 473 | 29-02-2024 | Writing |
-| The zero sum games that can be played | 324 | 07-03-2024 | Writing |
 | The market doesn't care | 217 | - | Notes |
 | We caution against experimentation | 6 | - | Notes |
-| Delayed decision making visualized | 710 | 14-03-2024 | Writing |
 | Convenience yield | 1 | - | Notes |
 | Greece | 1 | - | Notes |
 | Inflation and sticky prices turn into effective price ceilings | 68 | - | Notes |
