@@ -84,13 +84,13 @@ For the sake of the argument, let us assume that there is a random allocation of
 
 Each agent has a utility function for money u_a(x).
 
-The goal is to maximize \sum_{i=1}^{n} u_i(x_i) with the constraint of \sum_{i=1}^{n} x_i \leq X.
+The goal is to maximize $$\sum_{i=1}^{n} u_i(x_i)$$ with the constraint of $$\sum_{i=1}^{n} x_i \leq X$$.
 
 Unsurprisingly, if we start with a suboptimal allocation x and calculate the optimal allocation y, then the total utility grows in the optimal allocation. Water is wet. Except, we are talking about money here. Money is not consumed when it is used.
 
 In fact, we could play god, and simply take away all the money and then hand it over in the most optimal way and the economy would chug along. It would be incredibly unfair, but it would be highly optimal.
 
 Now here is the kicker. If we do not have actor dependent money utility. I.e. the utility of money for the entire economy,
-then the utility of money would be defined by its optimal allocation. u(x) = \sum_{i=1}^{n} u_i(x_i)
+then the utility of money would be defined by its optimal allocation $$u(x) = max_{(x_1, ... , x_n) \in \mathbb{R}^n} \sum_{i=1}^{n} u_i(x_i)$$ subject to $$x = \sum_{i=1}^{n} x_i$$.
 
-The liquid function u(x) obscures the details of the illiquid economy defined by u_i(x_i).
+The liquid function $$u(x)$$ obscures the details of the illiquid economy defined by $$u_i(x_i)$$.

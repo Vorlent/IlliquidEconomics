@@ -104,14 +104,14 @@ Exponential growth over short periods of time such as two millenia, rapidly resu
 
 # References
 
-[0] https://en.wikipedia.org/wiki/Earth
+[0] [https://en.wikipedia.org/wiki/Earth](https://en.wikipedia.org/wiki/Earth)
 
-[1] https://www.quora.com/What-is-the-volume-of-air-in-Earth%E2%80%99s-atmosphere-and-volume-of-water-on-Earth
+[1] [https://www.quora.com/What-is-the-volume-of-air-in-Earth%E2%80%99s-atmosphere-and-volume-of-water-on-Earth](https://www.quora.com/What-is-the-volume-of-air-in-Earth%E2%80%99s-atmosphere-and-volume-of-water-on-Earth)
 
-[3] https://de.wikipedia.org/wiki/Liste_der_L%C3%A4nder_nach_Bruttoinlandsprodukt (I know the number isn't perfectly accurate but you know what? Calculating these large numbers is painful)
+[3] [https://de.wikipedia.org/wiki/Liste_der_L%C3%A4nder_nach_Bruttoinlandsprodukt](https://de.wikipedia.org/wiki/Liste_der_L%C3%A4nder_nach_Bruttoinlandsprodukt) (I know the number isn't perfectly accurate but you know what? Calculating these large numbers is painful)
 
-[4] https://solarsystem.nasa.gov/news/1164/how-big-is-the-solar-system/
+[4] [https://solarsystem.nasa.gov/news/1164/how-big-is-the-solar-system/](https://solarsystem.nasa.gov/news/1164/how-big-is-the-solar-system/)
 
-[5] https://en.wikipedia.org/wiki/Milky_Way
+[5] [https://en.wikipedia.org/wiki/Milky_Way](https://en.wikipedia.org/wiki/Milky_Way)
 
-[6] https://lovethenightsky.com/stars-within-100-light-years/
+[6] [https://lovethenightsky.com/stars-within-100-light-years/](https://lovethenightsky.com/stars-within-100-light-years/)

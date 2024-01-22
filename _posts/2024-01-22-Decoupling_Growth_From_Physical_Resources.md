@@ -45,7 +45,7 @@ For anyone interested in seeing how silly Longtermism is, I recommend watching t
 
 If growth is perfectly decoupled from both cognitive resources and physical resources, then we run into another problem. Why would this growth be bounded by something as arbitrary as an exponential function? In fact, the expectation is that all of the infinite economic growth would happen instantly. The expectation of decoupling growth from physical resources would not result in endless exponential growth. It would result in super exponential growth. What could super exponential growth look like?
 
-![What exactly is supposed to happen after the singularity?](_posts/2024-01-15-Decoupling_Growth_From_Physical_Resources/Singularity_Chart.png)
+![What exactly is supposed to happen after the singularity?](_posts/2024-01-22-Decoupling_Growth_From_Physical_Resources/Singularity_Chart.png)
 
 At T+1 all growth has happened instantaneously and no more growth will occur beyond T+1 [3].
 
@@ -55,20 +55,26 @@ What is a boltzman brain you ask? Well, it is merely a thought experiment thinki
 # What in reality is going to happen...
 
 I will ruin everyone's fun and say it: There are limits to growth. No, you cannot grow by endlessly simply by increasing efficiency.
-However, I am not going to say that these limits are unchanging. It is entirely possible for limits to persist, perhaps for thousands of years, and then suddenly, a breakthrough is made and the limit keeps rising, until it ceases to rise and then we wait again, for the limit to rise. In other words, we at the very least have to entertain interrupted growth. For example, what if it takes a thousand years to colonize Mars? If we aren't patient enough, we could go extinct, before we have even terraformed our second planet!
+However, I am not going to say that these limits are unchanging. It is entirely possible for limits to persist, perhaps for thousands of years, and then suddenly, a breakthrough is made and the limit keeps rising, until it ceases to rise and then we wait again, for the limit to rise. In other words, we at the very least have to entertain interrupted growth. For example, what if it takes a thousand years to colonize Mars? If we aren't patient enough, we could go extinct before we have terraformed our second planet!
 
-![Seeth? This is what they hath forswore thou! The crook'd growth path!](_posts/2024-01-15-Decoupling_Growth_From_Physical_Resources/The_Crooked_Growth_Path.png)
+![Seeth? This is what they hath forswore thou! The crook'd growth path!](_posts/2024-01-22-Decoupling_Growth_From_Physical_Resources/The_Crooked_Growth_Path.png)
 
-The desmos link itself can be found here [4]. It is a random layering of logistic functions with a linear component and cycles via a sine component, but with an overall tendency to keep growing linearly. There is an interesting blog post by Mark Buchanan about the limits that can be considered a starting point for the mindset of the next blog posts[5].
+The desmos link itself can be found here [4]. It is a random layering of logistic functions with a linear component and cycles via a sine component, but with an overall tendency to keep growing linearly. There is an interesting blog post by Mark Buchanan about the limits that can be considered a starting point for the mindset of the next blog posts [5].
 
 # Conclusion
 
 Decoupling growth from resources primarily serves the interests of investors and people whose economic models fail to reflect reality. Because the picture they have in their mind on how the world behaves diverges so much with how the world actually works, they have decided that it is reality that is wrong and that it should be changed to fit their ideas, ideas that have no hope of ever becoming real or influencing the world in a positive way. If it is attempted anyway, then the simplest strategy is to simply manipulate the human brain directly, as that requires the least amount of resources. Alternatively, if perfect decoupling is possible and no resources are needed, then all growth would happen instantaneously, in fact, it would happen so quickly that the vast majority of human brains would not belong to a real human body born on earth, but rather a so called boltzman brain, with the possibility that it was born with the maximization of utility already integrated into its brain.
 
-[0] https://scp-wiki.wikidot.com/scp-294
-[1] https://en.wikipedia.org/wiki/BLIT_(short_story)
-[1] http://www.infinityplus.co.uk/stories/blit.htm
-[2] https://www.givewell.org/how-much-does-it-cost-to-save-a-life
-[3] https://www.desmos.com/calculator/vo1mprowka
-[4] https://www.desmos.com/calculator/vtgssqk6g5
-[5] https://medium.com/bull-market/steaming-slowly-toward-the-limits-of-growth-cc455dccd829
+[0] [https://scp-wiki.wikidot.com/scp-294](https://scp-wiki.wikidot.com/scp-294)
+
+[1] [https://en.wikipedia.org/wiki/BLIT_(short_story)](https://en.wikipedia.org/wiki/BLIT_(short_story))
+
+[1] [http://www.infinityplus.co.uk/stories/blit.htm](http://www.infinityplus.co.uk/stories/blit.htm)
+
+[2] [https://www.givewell.org/how-much-does-it-cost-to-save-a-life](https://www.givewell.org/how-much-does-it-cost-to-save-a-life)
+
+[3] [https://www.desmos.com/calculator/vo1mprowka](https://www.desmos.com/calculator/vo1mprowka)
+
+[4] [https://www.desmos.com/calculator/vtgssqk6g5](https://www.desmos.com/calculator/vtgssqk6g5)
+
+[5] [https://medium.com/bull-market/steaming-slowly-toward-the-limits-of-growth-cc455dccd829](https://medium.com/bull-market/steaming-slowly-toward-the-limits-of-growth-cc455dccd829)
