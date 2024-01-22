@@ -53,7 +53,7 @@ How many stars are within 50, 100, 500, 1000 and 2000 light years? [6]
 
 The volume formula for a sphere is V = 4/3 π r³.
 
-Assuming we launch all out space ships in the year 2021, they will colonize a volume according to this table:
+Assuming we launch all our space ships in the year 2021, they will colonize a volume according to this table:
 
 | Year / Light years | Stars  | Volume               |
 |--------------------|--------| ---------------------|

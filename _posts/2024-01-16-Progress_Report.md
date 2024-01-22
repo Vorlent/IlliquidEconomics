@@ -3,6 +3,8 @@ layout: post
 title: Progress Report
 ---
 
+This blog somehow turned into a half baked book. I need to finish this train of thought first.
+
 This is just a way to keep myself a little bit accountable and to brag a little bit about how many ideas I have and how many end up being published. The expectation is that I will update this post and simply redate it. The information here is non-binding and prone to being out of date.
 
 Stages:
@@ -14,7 +16,6 @@ Verification: Most likely complete. Need to check if the numbers, etc are accura
 
 | Blog Title | est. Word Count | est. Publishing Date | Stage |
 | --- | --- | --- |
-| Decoupling Growth From Physical Resources | 969 | 10-01-2024 | Writing |
 | The laws of thermodynamics | 80 | - | Notes |
 | Money doesnt solve the double concidence of wants problem | 803 | 20-01-2024 | Writing |
 | The Neoclassical Solver | 644 | 31-01-2024 | Writing |
