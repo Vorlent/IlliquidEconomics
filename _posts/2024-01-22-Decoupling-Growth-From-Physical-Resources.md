@@ -45,19 +45,18 @@ For anyone interested in seeing how silly Longtermism is, I recommend watching t
 
 If growth is perfectly decoupled from both cognitive resources and physical resources, then we run into another problem. Why would this growth be bounded by something as arbitrary as an exponential function? In fact, the expectation is that all of the infinite economic growth would happen instantly. The expectation of decoupling growth from physical resources would not result in endless exponential growth. It would result in super exponential growth. What could super exponential growth look like?
 
-![What exactly is supposed to happen after the singularity?](_posts/2024-01-22-Decoupling_Growth_From_Physical_Resources/Singularity_Chart.png)
+![What exactly is supposed to happen after the singularity?](/images/2024-01-22-Decoupling_Growth_From_Physical_Resources/Singularity_Chart.png)
 
 At T+1 all growth has happened instantaneously and no more growth will occur beyond T+1 [3].
 
-Such a singularity would imply the existence of a timeless and endless universe, so that you are most likely a boltzman brain.
-What is a boltzman brain you ask? Well, it is merely a thought experiment thinking about 
+Such a singularity would imply the existence of a timeless and endless universe, so that you are most likely a boltzman brain. What is a boltzman brain you ask? Well, it is merely a thought experiment about the fact that thermal fluctuations are random events and that it is possible for a random flucutation to result in any random arrangement of atoms. Given enough time and an infinitely large universe, anything that is not impossible does and will inevitably happen and due to simple statistics, the probability that a big bang forms spontaneously to give rise to a universe that contains an earth-like planet, which allows humans to exist is so unlikely, that it is far more likely to think about a human brain spontaneously emerging from a random collection of matter. Yes, the idea of being born by another human is such an unlikely event, that humans born through the random process would exceed the number of humans born through evolution and reproduction of their parents. Why is it like that? It's because the big bang is a highly ordered state spanning the entire universe. Imagine rolling the dice on every single atom in the universe and getting a 6 every single time in a row. Now imagine the likelyhood of getting a 6 for every atom in your human brain? Sounds way more likely, doesn't it? Of course, a boltzman brain is an argument ad absurdum. That is, the purpose is to show how extrapolating a silly thought leads to bizarre conclusions. It exposes an inconsistency in a theory. It's far more realistic to think that human brains only develop on earth and nowhere else.
 
 # What in reality is going to happen...
 
-I will ruin everyone's fun and say it: There are limits to growth. No, you cannot grow by endlessly simply by increasing efficiency.
+I will ruin everyone's fun and say it: There are limits to growth. No, you cannot grow endlessly simply by increasing efficiency.
 However, I am not going to say that these limits are unchanging. It is entirely possible for limits to persist, perhaps for thousands of years, and then suddenly, a breakthrough is made and the limit keeps rising, until it ceases to rise and then we wait again, for the limit to rise. In other words, we at the very least have to entertain interrupted growth. For example, what if it takes a thousand years to colonize Mars? If we aren't patient enough, we could go extinct before we have terraformed our second planet!
 
-![Seeth? This is what they hath forswore thou! The crook'd growth path!](_posts/2024-01-22-Decoupling_Growth_From_Physical_Resources/The_Crooked_Growth_Path.png)
+![Seeth? This is what they hath forswore thou! The crook'd growth path!](/images/2024-01-22-Decoupling_Growth_From_Physical_Resources/The_Crooked_Growth_Path.png)
 
 The desmos link itself can be found here [4]. It is a random layering of logistic functions with a linear component and cycles via a sine component, but with an overall tendency to keep growing linearly. There is an interesting blog post by Mark Buchanan about the limits that can be considered a starting point for the mindset of the next blog posts [5].
 

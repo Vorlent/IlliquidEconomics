@@ -3,7 +3,7 @@ layout: post
 title: Progress Report
 ---
 
-This blog somehow turned into a half baked book. I need to finish this train of thought first.
+This blog somehow turned into a half baked book. I need to finish this train of thought first. REST IN PEACE, SCHEDULE!
 
 This is just a way to keep myself a little bit accountable and to brag a little bit about how many ideas I have and how many end up being published. The expectation is that I will update this post and simply redate it. The information here is non-binding and prone to being out of date.
 
@@ -16,15 +16,14 @@ Verification: Most likely complete. Need to check if the numbers, etc are accura
 
 | Blog Title | est. Word Count | est. Publishing Date | Stage |
 | --- | --- | --- |
-| The laws of thermodynamics | 80 | - | Notes |
-| Money doesnt solve the double concidence of wants problem | 803 | 20-01-2024 | Writing |
-| The Neoclassical Solver | 644 | 31-01-2024 | Writing |
-| Retaliation against sabotage leads to the end of the division of labor | 1906 | 05-02-2024 | Writing |
-| Money isn't a store of value | 1306 | 15-02-2024 | Writing |
-| The Impossibility of Microfoundations For Macroeconomics | 847 | 22-02-2024 | Writing |
-| Unstated assumptions | 473 | 29-02-2024 | Writing |
-| The zero sum games that can be played | 324 | 07-03-2024 | Writing |
-| Delayed decision making visualized | 710 | 14-03-2024 | Writing |
+| Money doesnt solve the double concidence of wants problem | 803 | 20-06-2024 | Writing |
+| The Neoclassical Solver | 644 | 31-06-2024 | Writing |
+| Retaliation against sabotage leads to the end of the division of labor | 1906 | 05-07-2024 | Writing |
+| Money isn't a store of value | 1306 | 15-08-2024 | Writing |
+| The Impossibility of Microfoundations For Macroeconomics | 847 | 22-08-2024 | Writing |
+| Unstated assumptions | 473 | 29-08-2024 | Writing |
+| The zero sum games that can be played | 324 | 07-09-2024 | Writing |
+| Delayed decision making visualized | 710 | 14-09-2024 | Writing |
 | Why Does Seignorage Even Exist? | 156 | - | Notes |
 | Hidden Redistribution | 68 | - | Notes |
 | Perfect Cooperation | 190 |  N/A | Notes |

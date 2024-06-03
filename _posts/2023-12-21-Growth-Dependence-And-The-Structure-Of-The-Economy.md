@@ -82,7 +82,7 @@ In CNC machining, the input material is a so called blank that is larger than th
 
 For the sake of the argument, let us assume that there is a random allocation of money among n agents. Neoclassicals are often quick to dismiss thought experiments like this, because suboptimal states through mistakes simply don't happen. What is truly infuriating then, is that since bad things don't happen, thinking about how to get from a suboptimal state to an optimal state is a waste of time. Neoclassical economics devolves into a pure approval of the status quo. You aren't allowed to escape suboptimality, since suboptimality is unthinkable. We are already optimal, what more optimality do you want?!? Meanwhile in the real world we build emergency exits, instead of assuming that all precautions to prevent fires are taken (with the argument that letting a house burn down is such a dumb thing, that it could never possibly happen to smart people).
 
-Each agent has a utility function for money u_a(x).
+Each agent has a utility function for money $$u_a(x)$$.
 
 The goal is to maximize $$\sum_{i=1}^{n} u_i(x_i)$$ with the constraint of $$\sum_{i=1}^{n} x_i \leq X$$.
 
