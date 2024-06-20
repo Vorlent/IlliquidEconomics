@@ -16,8 +16,7 @@ Verification: Most likely complete. Need to check if the numbers, etc are accura
 
 | Blog Title | est. Word Count | est. Publishing Date | Stage |
 | --- | --- | --- |
-| Money doesnt solve the double concidence of wants problem | 803 | 20-06-2024 | Writing |
-| The Neoclassical Solver | 644 | 31-06-2024 | Writing |
+| Money doesnt solve the double concidence of wants problem | 803 | 31-06-2024 | Writing |
 | Retaliation against sabotage leads to the end of the division of labor | 1906 | 05-07-2024 | Writing |
 | Money isn't a store of value | 1306 | 15-08-2024 | Writing |
 | The Impossibility of Microfoundations For Macroeconomics | 847 | 22-08-2024 | Writing |
