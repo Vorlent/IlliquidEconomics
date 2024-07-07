@@ -71,6 +71,9 @@ One could say that exploitation does not originate from the capitalists, it orig
 For those who are interested in further reading, I also recommend the excellent paper "The Role of Entropy in the Development of Economics" [4].
 
 [1] https://en.wikipedia.org/wiki/Dyson_sphere
+
 [2] https://hydrogen.wsu.edu/2022/03/24/the-1st-hydrogen-bank-could-zero-boil-off-storage-be-easier-than-we-think/
+
 [3] https://en.wikipedia.org/wiki/Nicholas_Georgescu-Roegen
+
 [4] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7516932/

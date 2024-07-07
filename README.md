@@ -1,5 +1,7 @@
 bundle exec jekyll serve
 
+https://gist.github.com/roachhd/779fa77e9b90fe945b0c
+
 # Lanyon
 
 Lanyon is an unassuming [Jekyll](http://jekyllrb.com) theme that places content first by tucking away navigation in a hidden drawer. It's based on [Poole](http://getpoole.com), the Jekyll butler.
