@@ -16,8 +16,10 @@ Verification: Most likely complete. Need to check if the numbers, etc are accura
 
 | Blog Title | est. Word Count | est. Publishing Date | Stage |
 | --- | --- | --- |
-| Retaliation against sabotage leads to the end of the division of labor | 1906 | 15-07-2024 | Writing |
-| Money isn't a store of value | 1306 | 15-08-2024 | Writing |
+| Storage loss, Capital depreciation and human aging | 109 | 27-07-2024 | Notes |
+| Information loss and the forgotten history of humanity | 58 | 07-08-2024 | Notes |
+| The Past, The Present, The Future, They Are All Disconnected. | 805 | 07-08-2024 | Writing |
+| Money isn't a store of value | 1799 | 15-08-2024 | Writing |
 | The Impossibility of Microfoundations For Macroeconomics | 847 | 22-08-2024 | Writing |
 | Unstated assumptions | 473 | 29-08-2024 | Writing |
 | The zero sum games that can be played | 324 | 07-09-2024 | Writing |
